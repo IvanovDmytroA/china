@@ -1,6 +1,6 @@
 ---
-title: 免费试用中文版 SAP云ERP系统
-description: 本报告重点列举了企业如何借助 SAP 先进的工具成功迁移至 SAP S/4HANA。这类工具包括 SAP Business Scenario Recommendations、SAP Transformation Navigator 和 SAP Readiness Check 等。
+title: 免费试用中文版
+description: 本报告重点列举了企业如何借助
 auto_validation: true
 time: 10
 tags: [ tutorial>beginner, products>sap-cloud-platform--sap-hana-service, products>sap-web-ide]
