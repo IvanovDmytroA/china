@@ -1,6 +1,6 @@
 ---
-title: 免费试用中文版
-description: 本报告重点列举了企业如何借助
+title: aaaa
+description: bbb
 auto_validation: true
 time: 10
 tags: [ tutorial>beginner, products>sap-cloud-platform--sap-hana-service, products>sap-web-ide]
