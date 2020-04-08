@@ -3,7 +3,8 @@ title: 讲解
 description: 讲解
 tags: [  tutorial>beginner, topic>cloud, topic>java]
 primary_tag: tutorial:product/sapHana
-author_name: Abdel DADOUCHE egergeg
+author_name: Abdel DADOUCHE
+author_profile: https://github.com/IvanovDmytroA
 time: 44
 ---
 ＃＃ 下一步

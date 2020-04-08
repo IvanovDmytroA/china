@@ -6,6 +6,7 @@ time: 10
 tags: [ tutorial>beginner, products>sap-cloud-platform--sap-hana-service, products>sap-web-ide]
 primary_tag: products>sap-hana
 author_name: Abdel DADOUCHE egergeg
+author_profile: https://github.com/IvanovDmytroA
 ---
 
 ## Prerequisites
