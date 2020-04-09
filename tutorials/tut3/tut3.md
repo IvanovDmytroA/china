@@ -44,7 +44,10 @@ class HelloWorld
 }
 * This source code was highlighted with Source Code Highlighter.
 ```
+[TEST]
+Test text
 
+[TEST]
 ```PowerShell
 2
 Start-Sleep 10
