@@ -45,7 +45,7 @@ class HelloWorld
 * This source code was highlighted with Source Code Highlighter.
 ```
 
-```PowerShell hl lines="1 2"
+```PowerShell
 2
 Start-Sleep 10
 Restart-Computer -Force -ComputerName SERVER1
