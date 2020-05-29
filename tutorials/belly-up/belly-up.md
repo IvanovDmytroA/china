@@ -215,7 +215,7 @@ export function MyApp() {
 ```
 Now the header opens an alert box on click.
 
-[VALIDATE_1]
+[DONE]
 [ACCORDION-END]
 
 ---
