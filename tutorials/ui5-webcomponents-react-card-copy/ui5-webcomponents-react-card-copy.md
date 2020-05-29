@@ -46,8 +46,6 @@ You can check out all available components in the [Storybook](https://sap.github
 
 Your webpage should now look like this.
 
-![Card01](01_card.png)
-
 And the file like this:
 
 ```JavaScript / JSX
@@ -112,7 +110,6 @@ The Card now spreads across the whole screen, this behavior is intended so it ta
     </Card>
     ```
 
-    ![Card02](02_card.png)
 
 2. The content of the card is way too close to the border of the `Card`, so a `padding` is needed. UI5 Web Components comes with a `Util` library, which includes `padding` sizes.
 
@@ -157,7 +154,6 @@ export function MyApp() {
 ```
 And your application like this:
 
-![Card03](03_card.png)
 
 [DONE]
 [ACCORDION-END]
