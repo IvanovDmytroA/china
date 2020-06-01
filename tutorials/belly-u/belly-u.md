@@ -1,5 +1,5 @@
 ---
-title: Create a Card Component
+title: Meh tutorial
 description: Define your first component using UI5 Web Components for React.
 auto_validation: true
 time: 15
