@@ -1,5 +1,5 @@
 ---
-title: Awesome tutorial
+title: Awesome tutorial one more time
 description: Subscribe to the trial version of SAP Web Analytics on the SAP Cloud Platform cockpit.
 auto_validation: true
 tags: [tutorial:product/sapHana, tutorial:experience/beginner]
