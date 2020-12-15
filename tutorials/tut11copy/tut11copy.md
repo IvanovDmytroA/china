@@ -2,7 +2,7 @@
 title: The most difficult tutorial
 description: Subscribe to the trial version of SAP Web Analytics on the SAP Cloud Platform cockpit.
 auto_validation: true
-tags: [tutorial:product/sapHana, tutorial:experience/beginner]
+tags: [tutorial:product/sapHana, tutorial:experience/beginner, software_product_function>758617099728293421716080695502398]
 primary_tag: tutorial:product/sapHana
 ---
 
