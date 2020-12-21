@@ -2,7 +2,7 @@
 title: Awesome tutorial
 description: Subscribe to the trial version of SAP Web Analytics on the SAP Cloud Platform cockpit.
 auto_validation: true
-tags: [tutorial:product/sapHana, tutorial:experience/beginner, software_product_function:758617099728293421716080695502398]
+tags: [tutorial:product/sapHana, tutorial:experience/beginner]
 primary_tag: tutorial:product/sapHana
 ---
 
@@ -28,6 +28,8 @@ UPDATED DETAILS
 ## Prerequisites  
 - [Access your first data in a SAP HANA XSC Application](http://go.sap.com/developer/tutorials/hana-data-access-authorizations.html)
 
+---
+
 [ACCORDION-BEGIN [STEP 1](Without)]
  From the **Sources** list, choose **Service URL**. 
 ```Java [1-3,6]
@@ -49,5 +51,8 @@ class HelloWorld
 Start-Sleep 10
 Restart-Computer -Force -ComputerName SERVER1
 ```
+
 [VALIDATE_1]
 [ACCORDION-END]
+
+---

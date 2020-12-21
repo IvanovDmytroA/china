@@ -1,8 +1,10 @@
 [VALIDATE_1]
 ###Rule
 multiple-choice
+
 ###Question
 What are the different message processing status in SAP Cloud Platform Integration?
+
 ###Match
 [x] Completed
 [x] Failed
@@ -10,4 +12,5 @@ What are the different message processing status in SAP Cloud Platform Integrati
 [ ] Exception
 [x] Escalated
 [ ] Alert
+
 [VALIDATE_1]
