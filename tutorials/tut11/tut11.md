@@ -16,7 +16,9 @@ In this exercise, we will induce an artificial exception situation via a script.
 An _Exception Sub-process_ will be added to handle the artificial exception.
 We will also play with the different End Events to see how they differ.
 ---
+
 [ACCORDION-BEGIN [Step 1: ](Switch to Escalation End Event)]
+
 In this exercise, we shall change the __Error End Event__ to __Escalation End Event__ and understand how the processing differs. As we shall see, the processing is unchanged - the __Escalation End Event__ gives us a way to set the message execution status to a different value: __Escalated__.
 1. Delete the __Error End Event__ step in the __Exception Sub-process__ and replace it with an __Escalation End Event__ step:
     * Hover over the __Error End Event__ step and click on the __Delete__ speed button:
@@ -37,7 +39,10 @@ In this exercise, we shall change the __Error End Event__ to __Escalation End Ev
     A graphical viewer opens up and provides a visual representation of the exception location on the message execution pipeline. The graphical viewer shows that the exception thrown by the __Script__ step was caught in the __Exception Sub-process__. A mail was send and the message execution status was set to __Escalated__.
 3. The mail received is also exactly the same as with the __Error End Event__:
     Check your configured inbox. You should get the following email:
-    ![Error email](Error email.png)   
+    ![Error email](Error email.png)
+	
 [VALIDATE_1]
+
 [ACCORDION-END]
+
 ---
