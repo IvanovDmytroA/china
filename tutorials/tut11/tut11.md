@@ -49,5 +49,5 @@ class HelloWorld
 Start-Sleep 10
 Restart-Computer -Force -ComputerName SERVER1
 ```
-[DONE]
+[VALIDATE_1]
 [ACCORDION-END]
